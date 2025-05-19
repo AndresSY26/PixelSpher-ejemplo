@@ -1,5 +1,3 @@
-# Firebase Studio
+# PixelSphere ejemplo
 
-This is a NextJS starter in Firebase Studio.
-
-To get started, take a look at src/app/page.tsx.
+Este projecto se desarrollo en forma de ejemplo practico la informacion que encuentre en los archivos json no contienen informacion real
