@@ -1,0 +1,23 @@
+[
+  {
+    "userId": "1",
+    "sessionId": "4d61c985-d95f-4a72-a7c2-6f7d5b2c61d3",
+    "deviceInfo": "Chrome en Windows 10/11",
+    "loginTimestamp": "2025-05-19T12:48:58.666Z",
+    "lastActiveTimestamp": "2025-05-19T12:48:58.666Z"
+  },
+  {
+    "userId": "1",
+    "sessionId": "ef7398d4-e4e3-4472-986a-e0f985664f03",
+    "deviceInfo": "Chrome en Windows 10/11",
+    "loginTimestamp": "2025-05-19T14:17:01.480Z",
+    "lastActiveTimestamp": "2025-05-19T14:17:01.480Z"
+  },
+  {
+    "userId": "1",
+    "sessionId": "1fcd0230-2911-4f5a-b8d9-dc9f681376b1",
+    "deviceInfo": "Chrome en Linux",
+    "loginTimestamp": "2025-05-19T15:16:48.904Z",
+    "lastActiveTimestamp": "2025-05-19T15:16:48.904Z"
+  }
+]

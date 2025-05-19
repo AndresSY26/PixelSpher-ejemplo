@@ -1,0 +1,51 @@
+[
+  {
+    "shareId": "c69e6758-853e-4710-8417-abf09707efb8-tynq6i1u",
+    "ownerUserId": "1",
+    "itemId": "f4a11ce3-53b2-4ff7-ba36-b8872344422a",
+    "creationTimestamp": "2025-05-16T20:12:30.680Z",
+    "isActive": false
+  },
+  {
+    "shareId": "376af159-8352-4f75-acf1-e520b44b93da-x233wj4z",
+    "ownerUserId": "1",
+    "itemId": "a3a56f68-36f4-4f8a-9033-82cdbf0246bc",
+    "creationTimestamp": "2025-05-16T20:20:59.873Z",
+    "isActive": false
+  },
+  {
+    "shareId": "ddd94711-c146-4f8f-9c4a-d461892625d3-tbgebn16",
+    "ownerUserId": "1",
+    "itemId": "dad26050-017a-4040-8a3b-7787836823e6",
+    "creationTimestamp": "2025-05-16T20:23:04.563Z",
+    "isActive": false
+  },
+  {
+    "shareId": "a67fbe5e-7501-4fb4-9c64-6c3f85cdc760-vz7wtz47",
+    "ownerUserId": "1",
+    "itemId": "f4a11ce3-53b2-4ff7-ba36-b8872344422a",
+    "creationTimestamp": "2025-05-16T20:23:19.296Z",
+    "isActive": false
+  },
+  {
+    "shareId": "f2cc17bb-aea1-455c-8a78-67b921c11b7a-s5hykmr8",
+    "ownerUserId": "1",
+    "itemId": "f4a11ce3-53b2-4ff7-ba36-b8872344422a",
+    "creationTimestamp": "2025-05-16T20:39:08.622Z",
+    "isActive": false
+  },
+  {
+    "shareId": "43a9ec98-0989-4597-9f97-ec9525d10ec7-abvuzli8",
+    "ownerUserId": "1",
+    "itemId": "9cc4e6d0-49c4-42b5-9058-61dc732102be",
+    "creationTimestamp": "2025-05-16T20:43:14.056Z",
+    "isActive": false
+  },
+  {
+    "shareId": "82670194-2276-46e2-82c0-5a66dbba997d-bvyeege4",
+    "ownerUserId": "1",
+    "itemId": "9cc4e6d0-49c4-42b5-9058-61dc732102be",
+    "creationTimestamp": "2025-05-16T20:43:40.717Z",
+    "isActive": false
+  }
+]

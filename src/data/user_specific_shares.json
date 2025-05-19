@@ -1,0 +1,70 @@
+[
+  {
+    "shareInstanceId": "1dc50f9d-4039-4bd3-8d10-b08b788d6dba",
+    "ownerUserId": "1",
+    "itemId": "fa2003eb-1556-4b74-9f65-7c1c4cbe0550",
+    "targetUserId": "2",
+    "shareTimestamp": "2025-05-16T20:28:51.276Z",
+    "status": "active"
+  },
+  {
+    "shareInstanceId": "4be607d8-f83d-4314-8bcc-7e66a6f373ca",
+    "ownerUserId": "1",
+    "itemId": "0f4f8852-0483-4fef-9024-be6666c00990",
+    "targetUserId": "2",
+    "shareTimestamp": "2025-05-16T20:30:48.252Z",
+    "message": "Espero que te guste este video, donde esa chica es maravillosa y en especial como lo mueve",
+    "status": "active"
+  },
+  {
+    "shareInstanceId": "7bcc8226-7fc3-4226-8f95-62da86e35119",
+    "ownerUserId": "1",
+    "itemId": "f4a11ce3-53b2-4ff7-ba36-b8872344422a",
+    "targetUserId": "2",
+    "shareTimestamp": "2025-05-16T20:37:36.257Z",
+    "message": "Privado",
+    "status": "revoked"
+  },
+  {
+    "shareInstanceId": "a0917456-4ad0-44c6-a4a0-6eb82ec619e4",
+    "ownerUserId": "1",
+    "itemId": "0851700b-9163-4e0b-8ea1-c2a9099a934f",
+    "targetUserId": "2",
+    "shareTimestamp": "2025-05-16T20:38:32.517Z",
+    "status": "revoked"
+  },
+  {
+    "shareInstanceId": "fc63a764-b322-4fec-8c73-9a5454d2d2cb",
+    "ownerUserId": "1",
+    "itemId": "0851700b-9163-4e0b-8ea1-c2a9099a934f",
+    "targetUserId": "2",
+    "shareTimestamp": "2025-05-16T20:46:58.031Z",
+    "status": "active"
+  },
+  {
+    "shareInstanceId": "872a6701-7d5c-4380-88ee-e27de9c8d827",
+    "ownerUserId": "1",
+    "itemId": "0851700b-9163-4e0b-8ea1-c2a9099a934f",
+    "targetUserId": "3",
+    "shareTimestamp": "2025-05-16T20:46:58.340Z",
+    "status": "revoked"
+  },
+  {
+    "shareInstanceId": "f1ad6df6-dbed-442d-a8cd-3793f2c551ea",
+    "ownerUserId": "1",
+    "itemId": "9cc4e6d0-49c4-42b5-9058-61dc732102be",
+    "targetUserId": "2",
+    "shareTimestamp": "2025-05-16T20:48:18.665Z",
+    "message": "Porfavor no hacer publica el siguiente contenido ya que pertenece a una plataforma de una empresa",
+    "status": "active"
+  },
+  {
+    "shareInstanceId": "5be329da-dfa2-40fe-a521-ee2b975fb669",
+    "ownerUserId": "1",
+    "itemId": "9cc4e6d0-49c4-42b5-9058-61dc732102be",
+    "targetUserId": "3",
+    "shareTimestamp": "2025-05-16T20:48:18.929Z",
+    "message": "Porfavor no hacer publica el siguiente contenido ya que pertenece a una plataforma de una empresa",
+    "status": "active"
+  }
+]
